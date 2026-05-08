@@ -144,4 +144,6 @@ dataset/HumanML3D/new_joints/
 dataset/HumanML3D/new_joint_vecs/
 dataset/HumanML3D/texts/
 kit/
-t2m/
+t2m/visualize/joints2smpl/smpl_models/SMPL_MALE.pkl
+visualize/joints2smpl/smpl_models/SMPL_NEUTRAL.pkl
+visualize/joints2smpl/smpl_models/smpl/
