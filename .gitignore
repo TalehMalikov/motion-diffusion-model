@@ -147,3 +147,6 @@ kit/
 t2m/visualize/joints2smpl/smpl_models/SMPL_MALE.pkl
 visualize/joints2smpl/smpl_models/SMPL_NEUTRAL.pkl
 visualize/joints2smpl/smpl_models/smpl/
+visualize/joints2smpl/smpl_models/SMPL_MALE.pkl
+visualize/joints2smpl/smpl_models/SMPL_NEUTRAL.pkl
+visualize/joints2smpl/smpl_models/smpl/
